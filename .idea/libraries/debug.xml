@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_529fc6a80b14420a8e10df59636e7bcee84fd815.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_ddbe9a08a138854b55c74b4e7dd19c521c436809.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_b8270c431c227f837952674d0edb4bbb67fcd3cd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_ee0d5422ed635c1d5ff3097ac61ec6f66f70669f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_a6875764001c694620f7bf01ed870a83ec4180e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/debug_8a94d4f1901bb3129e8fc3b249a690f60dab1d1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_7a602446ccc6ff6a28d4ca9d5caac8c4e18f5b86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_6dcd0bed6ccaec1f846ea7b7f3e14306a6690e29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_d28f27f6230d98b1c4bb16f10a5f44a5bd65220b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3e19afe7c567b1005706188f208209c50099ab66.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_b653ac48ff7ec4f7cd0608ed1f1ed9e601244c9a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_90cdec29c12f2f6d67ea3fb538c2e7dd54ecaa62.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
